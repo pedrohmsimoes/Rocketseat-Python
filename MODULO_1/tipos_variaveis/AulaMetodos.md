@@ -1,0 +1,9 @@
+aula 1
+
+Nesta aula, vamos continuar falando sobre variáveis de texto em Python. Vamos nos concentrar nos principais métodos que podemos usar com texto. Em vez de usar o editor de texto, vou usar o terminal com o Python no modo interativo. Para isso, você precisa abrir o terminal do seu sistema operacional. No Mac, você pode encontrá-lo na pasta "Applications". No terminal, vou iniciar o Python no modo interativo. Vamos declarar algumas variáveis de texto, como nome e sobrenome, e usar o método print para imprimir o conteúdo dessas variáveis. Vou mostrar dois métodos muito úteis: upper e lower, que transformam o texto em maiúsculas e minúsculas, respectivamente. É importante lembrar que as variáveis de texto são imutáveis, ou seja, não podemos alterar seu conteúdo. Podemos acessar os elementos do texto usando colchetes.
+
+
+
+aula 2
+
+Nesta aula, continuamos a explorar métodos de manipulação de strings em Python. Começamos falando sobre os métodos count e find. O método count conta o número de ocorrências de uma letra em uma string, enquanto o método find retorna a posição da primeira ocorrência de uma letra na string. Em seguida, discutimos os métodos de codificação e decodificação, que são usados para converter strings em bytes e vice-versa. Também aprendemos sobre o método replace, que substitui uma string por outra, e os métodos join e split, que são usados para adicionar separadores e dividir strings em listas, respectivamente. Por fim, exploramos os comparadores startswith, in e not in, que são usados para verificar se uma string começa com um determinado valor ou se contém um determinado valor. Na próxima aula, continuaremos com os booleanos.
