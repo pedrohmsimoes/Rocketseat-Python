@@ -6,3 +6,14 @@ Nesta trilha, explorei os fundamentos essenciais de Python e mergulhei no ecossi
 Crie um simples gerenciador de lista de tarefas que permita aos usuários adicionar, visualizar, atualizar, marcar como completadas e deletar tarefas completadas. Use funções para implementar diferentes recursos e gerenciar as tarefas usando uma lista.
 REQUISITOS:
 Adicione tarefas à lista. Visualize a lista de tarefas. Atualize o nome das tarefas. Marque tarefas como completadas. Delete tarefas completadas.
+
+#Modulo 2
+
+Este projeto consiste em criar um jogo de batalha em Python, onde o jogador controla um herói e enfrenta um inimigo em uma batalha em turnos. O objetivo é derrotar o inimigo e vencer a batalha, usando ataques normais e especiais. O jogo apresentará dois personagens: o herói e o inimigo.
+RERUISITOS:
+O jogo deve ser executado em turnos.
+O jogador deve controlar um herói.
+O herói deve ter um nome, pontos de vida, nível e pode utilizar ataques normais e especiais para atacar.
+Os inimigos devem ter nome, pontos de vida, nível, tipo e pode utilizar ataques normais para atacar.
+A cada turno o herói e o inimigo atacam.
+O jogo acaba quando o herói ou o inimigo ficarem sem pontos de vida.
