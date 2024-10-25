@@ -17,3 +17,8 @@ O herói deve ter um nome, pontos de vida, nível e pode utilizar ataques normai
 Os inimigos devem ter nome, pontos de vida, nível, tipo e pode utilizar ataques normais para atacar.
 A cada turno o herói e o inimigo atacam.
 O jogo acaba quando o herói ou o inimigo ficarem sem pontos de vida.
+
+
+# Modulo 3
+
+Módulo dedicado ao aprendizado dos conceitos fundamentais de API, onde vamos criar nossa própria API utilizando o framework Flask em Python.
