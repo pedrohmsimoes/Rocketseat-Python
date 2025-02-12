@@ -1,42 +1,63 @@
-# Rocketseat-Python
-    Nesta trilha, explorei os fundamentos essenciais de Python e mergulhei no ecossistema do Flask. Do básico à criação de APIs completas,
-passei por todas as etapas do desenvolvimento de aplicações escaláveis, sempre focando em boas práticas para garantir eficiência e robustez.
+📌 Módulo 1 - Gerenciador de Lista de Tarefas
 
-# Modulo 1
+Criação de um gerenciador simples de lista de tarefas, permitindo aos usuários:
 
-    Crie um simples gerenciador de lista de tarefas que permita aos usuários adicionar, visualizar, atualizar, marcar como completadas e deletar tarefas completadas.
-Use funções para implementar diferentes recursos e gerenciar as tarefas usando uma lista.
-REQUISITOS:
-Adicione tarefas à lista. Visualize a lista de tarefas. Atualize o nome das tarefas. Marque tarefas como completadas. Delete tarefas completadas.
+✅ Adicionar tarefas à lista
 
-# Modulo 2
+📋 Visualizar a lista de tarefas
 
-    Este projeto consiste em criar um jogo de batalha em Python, onde o jogador controla um herói e enfrenta um inimigo em uma batalha em turnos. O objetivo é derrotar o inimigo e vencer a batalha, usando ataques normais e especiais. O jogo apresentará dois personagens: o herói e o inimigo.
-RERUISITOS:
-O jogo deve ser executado em turnos.
-O jogador deve controlar um herói.
-O herói deve ter um nome, pontos de vida, nível e pode utilizar ataques normais e especiais para atacar.
-Os inimigos devem ter nome, pontos de vida, nível, tipo e pode utilizar ataques normais para atacar.
-A cada turno o herói e o inimigo atacam.
-O jogo acaba quando o herói ou o inimigo ficarem sem pontos de vida.
+✏️ Atualizar o nome das tarefas
 
+✔️ Marcar tarefas como completadas
 
-# Modulo 3
+🗑️ Deletar tarefas completadas
 
-    Módulo dedicado ao aprendizado dos conceitos fundamentais de API, onde vamos criar nossa própria API utilizando o framework Flask em Python.
+O gerenciamento das tarefas foi implementado utilizando funções e listas em Python.
 
+🎮 Módulo 2 - Jogo de Batalha
 
-# Modulo 4
+Desenvolvimento de um jogo de batalha baseado em turnos, onde o jogador controla um herói que enfrenta um inimigo. O objetivo é derrotar o inimigo utilizando ataques normais e especiais.
 
-    Este modulo vamos aprender sobre autenticação em APIs e integração com bancos de dados. Desenvolveremos um projeto completo de autenticação para APIs, 
-incluindo login, logout, cadastro, deleção, atualização e leitura de usuários.
-ambém entenderemos a importância de um banco de dados para persistir os dados da nossa aplicação. A autenticação é fundamental em muitos sistemas, 
-independentemente do objetivo.
-    Vamos utilizar o Flask SQL Alchemy, que é uma extensão do Flask que suporta o SQL Alchemy. O SQL Alchemy é um ORM (Object Relational Mapper),
-que nos permite abstrair as funções do banco de dados e facilita a troca de banco de dados no futuro.
+🔹 Requisitos:
 
-# Modulo 5 
+O jogo deve ser executado em turnos
 
-    Vamos explorar o conceito de notificações em tempo real e suas aplicações, além de discutir as estratégias mais comuns para implementá-las
-como long pooling e WebSockets. Em seguida, teremos um projeto prático, onde construiremos uma API de pagamento do zero e implementaremos notificações em tempo real. 
-O projeto envolverá a criação de um pagamento simulado de PIX e a confirmação desse pagamento em tempo real.
+O jogador controla um herói
+
+O herói possui nome, pontos de vida, nível e ataques especiais
+
+O inimigo tem nome, pontos de vida, nível e ataques normais
+
+A batalha termina quando um dos personagens ficar sem pontos de vida
+
+🌐 Módulo 3 - Introdução a APIs com Flask
+
+Módulo dedicado ao aprendizado dos conceitos fundamentais de APIs, onde criamos nossa própria API utilizando o framework Flask em Python.
+
+🔐 Módulo 4 - Autenticação e Banco de Dados
+
+Neste módulo, aprendemos sobre autenticação em APIs e integração com bancos de dados, desenvolvendo um sistema completo de autenticação.
+
+🔹 Funcionalidades implementadas:
+
+🔑 Cadastro, login e logout de usuários
+
+🔄 Atualização e deleção de usuários
+
+📊 Integração com banco de dados usando Flask SQLAlchemy
+
+O SQLAlchemy é um ORM (Object Relational Mapper) que permite abstrair operações de banco de dados e facilita a migração para diferentes bancos de dados no futuro.
+
+⚡ Módulo 5 - Notificações em Tempo Real e API de Pagamento
+
+Exploramos o conceito de notificações em tempo real e suas aplicações, além de estratégias como long polling e WebSockets.
+
+🔹 Projeto prático:
+
+Criamos uma API de pagamento simulada de PIX
+
+Implementamos notificações em tempo real para confirmar transações
+
+📌 Conclusão
+
+Essa trilha proporcionou um aprendizado prático e progressivo em Python e Flask, cobrindo desde conceitos básicos até aplicações reais e escaláveis. O conhecimento adquirido aqui serve como base para projetos mais avançados e para o aprofundamento no desenvolvimento backend. 🚀
