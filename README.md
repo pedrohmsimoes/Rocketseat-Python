@@ -1,4 +1,4 @@
-📌 Módulo 1 - Gerenciador de Lista de Tarefas
+#  📌 Módulo 1 - Gerenciador de Lista de Tarefas
 
 Criação de um gerenciador simples de lista de tarefas, permitindo aos usuários:
 
@@ -14,11 +14,11 @@ Criação de um gerenciador simples de lista de tarefas, permitindo aos usuário
 
 O gerenciamento das tarefas foi implementado utilizando funções e listas em Python.
 
-🎮 Módulo 2 - Jogo de Batalha
+# 🎮 Módulo 2 - Jogo de Batalha
 
 Desenvolvimento de um jogo de batalha baseado em turnos, onde o jogador controla um herói que enfrenta um inimigo. O objetivo é derrotar o inimigo utilizando ataques normais e especiais.
 
-🔹 Requisitos:
+# 🔹 Requisitos:
 
 O jogo deve ser executado em turnos
 
@@ -30,11 +30,11 @@ O inimigo tem nome, pontos de vida, nível e ataques normais
 
 A batalha termina quando um dos personagens ficar sem pontos de vida
 
-🌐 Módulo 3 - Introdução a APIs com Flask
+# 🌐 Módulo 3 - Introdução a APIs com Flask
 
 Módulo dedicado ao aprendizado dos conceitos fundamentais de APIs, onde criamos nossa própria API utilizando o framework Flask em Python.
 
-🔐 Módulo 4 - Autenticação e Banco de Dados
+# 🔐 Módulo 4 - Autenticação e Banco de Dados
 
 Neste módulo, aprendemos sobre autenticação em APIs e integração com bancos de dados, desenvolvendo um sistema completo de autenticação.
 
@@ -48,7 +48,7 @@ Neste módulo, aprendemos sobre autenticação em APIs e integração com bancos
 
 O SQLAlchemy é um ORM (Object Relational Mapper) que permite abstrair operações de banco de dados e facilita a migração para diferentes bancos de dados no futuro.
 
-⚡ Módulo 5 - Notificações em Tempo Real e API de Pagamento
+# ⚡ Módulo 5 - Notificações em Tempo Real e API de Pagamento
 
 Exploramos o conceito de notificações em tempo real e suas aplicações, além de estratégias como long polling e WebSockets.
 
