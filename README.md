@@ -1,15 +1,17 @@
 # Rocketseat-Python
-Nesta trilha, explorei os fundamentos essenciais de Python e mergulhei no ecossistema do Flask. Do básico à criação de APIs completas, passei por todas as etapas do desenvolvimento de aplicações escaláveis, sempre focando em boas práticas para garantir eficiência e robustez.
+    Nesta trilha, explorei os fundamentos essenciais de Python e mergulhei no ecossistema do Flask. Do básico à criação de APIs completas,
+passei por todas as etapas do desenvolvimento de aplicações escaláveis, sempre focando em boas práticas para garantir eficiência e robustez.
 
 # Modulo 1
 
-Crie um simples gerenciador de lista de tarefas que permita aos usuários adicionar, visualizar, atualizar, marcar como completadas e deletar tarefas completadas. Use funções para implementar diferentes recursos e gerenciar as tarefas usando uma lista.
+    Crie um simples gerenciador de lista de tarefas que permita aos usuários adicionar, visualizar, atualizar, marcar como completadas e deletar tarefas completadas.
+Use funções para implementar diferentes recursos e gerenciar as tarefas usando uma lista.
 REQUISITOS:
 Adicione tarefas à lista. Visualize a lista de tarefas. Atualize o nome das tarefas. Marque tarefas como completadas. Delete tarefas completadas.
 
 # Modulo 2
 
-Este projeto consiste em criar um jogo de batalha em Python, onde o jogador controla um herói e enfrenta um inimigo em uma batalha em turnos. O objetivo é derrotar o inimigo e vencer a batalha, usando ataques normais e especiais. O jogo apresentará dois personagens: o herói e o inimigo.
+    Este projeto consiste em criar um jogo de batalha em Python, onde o jogador controla um herói e enfrenta um inimigo em uma batalha em turnos. O objetivo é derrotar o inimigo e vencer a batalha, usando ataques normais e especiais. O jogo apresentará dois personagens: o herói e o inimigo.
 RERUISITOS:
 O jogo deve ser executado em turnos.
 O jogador deve controlar um herói.
@@ -32,3 +34,9 @@ ambém entenderemos a importância de um banco de dados para persistir os dados 
 independentemente do objetivo.
     Vamos utilizar o Flask SQL Alchemy, que é uma extensão do Flask que suporta o SQL Alchemy. O SQL Alchemy é um ORM (Object Relational Mapper),
 que nos permite abstrair as funções do banco de dados e facilita a troca de banco de dados no futuro.
+
+# Modulo 5 
+
+    Vamos explorar o conceito de notificações em tempo real e suas aplicações, além de discutir as estratégias mais comuns para implementá-las
+como long pooling e WebSockets. Em seguida, teremos um projeto prático, onde construiremos uma API de pagamento do zero e implementaremos notificações em tempo real. 
+O projeto envolverá a criação de um pagamento simulado de PIX e a confirmação desse pagamento em tempo real.
