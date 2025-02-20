@@ -61,3 +61,17 @@ Implementamos notificações em tempo real para confirmar transações
 📌 Conclusão
 
 Essa trilha proporcionou um aprendizado prático e progressivo em Python e Flask, cobrindo desde conceitos básicos até aplicações reais e escaláveis. O conhecimento adquirido aqui serve como base para projetos mais avançados e para o aprofundamento no desenvolvimento backend. 🚀
+
+#  📌 Módulo 6 - Design de Código e Boas Práticas
+
+Neste módulo de formação em Python, exploramos como aplicar a linguagem em projetos reais, seguindo boas práticas de design de código e arquitetura de software. Por meio de um projeto prático, aprofundamos conceitos fundamentais que ajudam a estruturar soluções mais eficientes, escaláveis e profissionais.
+
+**🧠 Aprendizados**
+✅ Organização de código e melhores práticas para um design limpo e sustentável
+✅ Orientação a Objetos (OOP) aplicada a projetos reais
+✅ Gerenciamento de dependências, garantindo um ambiente mais estável
+✅ Testes unitários, para aumentar a confiabilidade do código
+✅ Tratamento de erros, tornando as aplicações mais robustas
+
+Ao final deste módulo, teremos uma base sólida para projetar soluções mais profissionais, garantindo qualidade e boas práticas no desenvolvimento. 🚀
+
